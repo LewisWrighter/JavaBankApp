@@ -1,20 +1,20 @@
-# 💳 **Java Banking App**  
+# 💳 **Innovative Banking App**  
 *A modern banking application developed for the **Mobile Applications Development** module (SET08114) in my **2nd year of University (2023-24, TR2 001).***  
 
 ---
 
-## 📖 **Overview**  
-This project is a mobile **banking app** inspired by **Starling Bank** with a touch of **Revolut’s sleek interface**. The goal was to **blend essential banking features** with a **unique and engaging user experience**.  
+## 🌐 **Project Overview**  
+This project is a mobile **banking app prototype** inspired by **Starling Bank** with a touch of **Revolut’s sleek interface**. The goal was to **blend essential banking UI elements** with **unique interactive features** to create an engaging experience.  
 
-The app provides a **streamlined banking experience** with features such as **forex conversion, contact-based money transfers, and even a fun Cookie Clicker game** to add a unique touch.  
+The app includes **a clean, modern UI** with a **forex calculator, an interactive cookie clicker mini-game, and smooth navigation elements**. While the project is a **conceptual prototype**, it showcases **key Android development skills** and UI design principles.  
 
 ---
 
 ## ✨ **Features**  
-✅ **Secure Login & Signup** – Users can sign up and log in securely.  
-✅ **Homepage Dashboard** – Displays user **balance and quick navigation options**.  
-✅ **Foreign Exchange** – Convert **GBP to USD** with a built-in calculator.  
-✅ **Friends & Family Transfers** – Send money to **saved contacts** easily.  
+✅ **Secure Login & Signup Screens** – Simple authentication interface. *(No backend functionality.)*  
+✅ **Homepage Dashboard** – Displays a **mock bank balance and navigation elements**.  
+✅ **Foreign Exchange Calculator** – Converts **GBP to USD** using a **static exchange rate**.  
+✅ **Contacts UI for Money Transfers** – *Non-functional, included for UI demonstration purposes.*  
 ✅ **Cookie Clicker Mini-Game** – A fun, interactive game for quick dopamine boosts.  
 ✅ **Smooth Navigation** – A **top navigation bar** allows seamless switching between pages.  
 
@@ -24,8 +24,7 @@ The app provides a **streamlined banking experience** with features such as **fo
 - ☕ **Java** – Core programming language for app logic.  
 - 📱 **Android Studio** – IDE used for development.  
 - 🎨 **XML** – Designed and styled UI layouts.  
-- 🔄 **Android Activity Lifecycle** – Managed screen transitions and user sessions.  
-- 🏦 **SQLite Database** – For user authentication and storing banking details.  
+- 🔄 **Android Activity Lifecycle** – Managed screen transitions and user navigation.  
 - 🖼️ **Android Vector Assets & Custom Drawables** – Used for icons, buttons, and UI elements.  
 
 ---
@@ -54,8 +53,9 @@ The app provides a **streamlined banking experience** with features such as **fo
 
 ## ❌ **Challenges & Modifications**  
 ### **Removed Features Due to Time Constraints**  
+🚫 **Functional Contacts-Based Money Transfers** – Originally planned, but not implemented due to project scope.  
+🚫 **Database for User Accounts & Transactions** – The app **does not store real financial data**.  
 🚫 **Expanded Currency Options** – Initially planned, but additional currencies caused app crashes.  
-🚫 **Interactive Friends & Family Tab** – Limited functionality due to time constraints.  
 
 ### **Overcoming Development Challenges**  
 - **Faced multiple IDE & implementation errors** while adding new features.  
@@ -65,10 +65,10 @@ The app provides a **streamlined banking experience** with features such as **fo
 ---
 
 ## 🔮 **Future Improvements**  
-🔹 Add **more currency options** to the foreign exchange feature.  
-🔹 Improve **interactivity in Friends & Family transfers**.  
-🔹 Integrate **real-time currency exchange rates** via an API.  
-🔹 Implement **more banking features like savings goals or budgeting tools**.  
+🔹 **Implement actual backend functionality** for transactions & authentication.  
+🔹 **Expand currency options in the foreign exchange feature.**  
+🔹 **Improve interactivity in Friends & Family contacts UI.**  
+🔹 **Integrate real-time currency exchange rates via an API.**  
 
 ---
 
@@ -80,6 +80,10 @@ The app provides a **streamlined banking experience** with features such as **fo
 ---
 
 ### 💖 **Final Thoughts**  
-This project was an **exciting and rewarding challenge** that helped me **develop a deeper understanding of Android app development**. While I encountered **several hurdles**, I successfully created an app that **blends essential banking functionalities with a unique and enjoyable user experience**.  
+This project was an **exciting and rewarding challenge** that helped me **develop a deeper understanding of Android app development**. While I encountered **several hurdles**, I successfully created an app that **demonstrates key UI/UX principles and Java functionality**.  
 
-Despite some limitations, I’m **proud** of what I achieved and excited to explore **
+Despite some limitations, I’m **proud** of what I achieved and excited to explore **more advanced Android development in the future**! 🚀  
+
+---
+
+
